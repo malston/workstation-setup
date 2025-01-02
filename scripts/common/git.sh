@@ -1,6 +1,7 @@
 echo
 echo "Installing Git and associated tools"
 brew install git
+brew install --cask git-credential-manager
 
 echo
 echo "Setting global Git configurations"
