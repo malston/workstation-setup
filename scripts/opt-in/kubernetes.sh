@@ -2,6 +2,8 @@ echo
 echo "Installing common Kubernetes tooling"
 
 brew install kubectl
+brew install kubectx
+
 # Shell completion
 FILE=~/.zshrc
 if [[ -f "$FILE" ]]; then
