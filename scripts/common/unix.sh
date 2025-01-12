@@ -10,6 +10,7 @@ brew install coreutils # GNU core utilities
 brew install watch # watch things
 brew install direnv # unclutter your .profile
 brew install starship
+brew install mise
 
 # For users of unixes
 brew install pstree
