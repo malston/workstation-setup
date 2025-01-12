@@ -13,6 +13,7 @@ brew install --cask 1password-cli
 
 # Terminals
 brew install --cask iterm2
+brew install --cask warp
 curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
 
 
