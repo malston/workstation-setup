@@ -7,6 +7,7 @@ echo "Installing applications"
 
 # Utilities
 brew install dockutil
+brew install gh
 brew install --cask flycut
 brew install --cask rectangle
 brew install --cask 1password-cli
